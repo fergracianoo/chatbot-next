@@ -11,7 +11,7 @@ export default function Home() {
           avatar: {
             alt: "log",
             size: 30,
-            src: "/graciano.jpg",
+            src: "/logo.png",
             className: "rounded-full",
           },
         }}
@@ -24,7 +24,7 @@ export default function Home() {
           avatar: {
             alt: "log",
             size: 30,
-            src: "/fernando.jpg",
+            src: "/logo.png",
             className: "rounded-full",
           },
         }}
@@ -37,7 +37,7 @@ export default function Home() {
           avatar: {
             alt: "log",
             size: 30,
-            src: "/bisner.jpg",
+            src: "/logo.png",
             className: "rounded-full",
           },
         }}
