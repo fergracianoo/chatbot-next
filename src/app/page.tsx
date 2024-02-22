@@ -5,39 +5,39 @@ export default function Home() {
     <div className="flex gap-4 max-sm:flex-col">
       <Chat
         id="322131534"
-        inicialMessage="bora"
+        inicialMessage="Bem-vindo(a) à Legitimuz! Estamos aqui para garantir a segurança e proteção dos nossos clientes. Como posso ajudar você hoje?"
         user={{
-          name: "Graciano Junior",
+          name: "Graciano",
           avatar: {
             alt: "log",
             size: 30,
-            src: "/Logo.png",
+            src: "/graciano.jpg",
             className: "rounded-full",
           },
         }}
       />
       <Chat
         id="542965832"
-        inicialMessage="Bora Trabalhar"
+        inicialMessage="Entendemos a importância da segurança da sua identidade. Como posso fornecer informações ou assistência hoje?"
         user={{
-          name: "Cristiano Ronaldo",
+          name: "Fernando",
           avatar: {
             alt: "log",
             size: 30,
-            src: "/Logo.png",
+            src: "/fernando.jpg",
             className: "rounded-full",
           },
         }}
       />
       <Chat
         id="510852953"
-        inicialMessage="Hoje tem"
+        inicialMessage="Na Legitimuz, buscamos tornar o processo de verificação de identidade tão simples quanto possível para você. Como posso ajudar você a verificar sua identidade de maneira tranquila hoje?"
         user={{
-          name: "Junior",
+          name: "Bisner",
           avatar: {
             alt: "log",
             size: 30,
-            src: "/Logo.png",
+            src: "/bisner.jpg",
             className: "rounded-full",
           },
         }}
